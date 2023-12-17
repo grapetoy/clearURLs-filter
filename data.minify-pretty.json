@@ -1800,7 +1800,7 @@
         "fbm"
       ],
       "redirections":[
-        "^https?:\\/\\/search.naver\\.com\\/p\\/\\/crd\\/rd.*?u=([^&]+)"
+        "^https?:\\/\\/search.naver\\.com\\/p\\/crd\\/rd.*?u=([^&]+)"
       ]
     }
   }
