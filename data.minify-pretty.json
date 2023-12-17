@@ -1797,7 +1797,8 @@
       "rules": [
         "where",
         "sm",
-        "fbm"
+        "fbm",
+        "oquery"
       ],
       "redirections":[
         "^https?:\\/\\/search.naver\\.com\\/p\\/crd\\/rd.*?u=([^&]+)"
