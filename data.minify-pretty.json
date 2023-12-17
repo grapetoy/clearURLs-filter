@@ -1798,7 +1798,8 @@
         "where",
         "sm",
         "fbm",
-        "oquery"
+        "oquery",
+        "tqi"
       ],
       "redirections":[
         "^https?:\\/\\/search.naver\\.com\\/p\\/crd\\/rd.*?u=([^&]+)"
