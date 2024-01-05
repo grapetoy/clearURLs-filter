@@ -1799,10 +1799,41 @@
         "sm",
         "fbm",
         "oquery",
-        "tqi"
+        "tqi",
+        "mra",
+        "x_csa",
+        "os",
+        "qvt",
+        "pkid",
+        "acr",
+        "acq"
       ],
       "redirections":[
         "^https?:\\/\\/search.naver\\.com\\/p\\/crd\\/rd.*?u=([^&]+)"
+      ]
+    },
+    "daum.net":{
+      "urlPattern" : "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?daum\\.net",
+      "rules":[
+        "nil_suggest",
+        "DA",
+        "w",
+        "thr"
+      ]
+    },
+    "zum.com": {
+      "urlPattern": "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?zum\\.com",
+      "rules":[
+        "method",
+        "option",
+        "rd",
+        "qm"
+      ]
+    },
+    "kakao.com" :{
+      "urlPattern" : "^https?:\\/\\/(?:[a-z0-9-]+\\.)*?kakao\\.com",
+      "rules": [
+        "t_src"
       ]
     }
   }
